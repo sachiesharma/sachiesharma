@@ -2,12 +2,12 @@
 ## Welcome to my Github page!
 
 # Some more about me...
-✨ I'm a recent fullstack bootcamp graduate!
-🔭 I’m currently working on a travel website for a travel agency that I designed myself
-🌱 I’m currently working with Svelte for the first time
-💬 In my free time, I love to read, play video games, and do yoga!
-⚡ I'd love to network, so please get in touch!
-📧 You can reach me at sachie@gmail.com
+- ✨ I'm a recent fullstack bootcamp graduate!
+- 🔭 Current project: I’m working on a travel website for a travel agency that I designed myself!
+- 🌱 I’m currently working with Svelte for the first time
+- 💬 In my free time, I love to read, play video games, and do yoga!
+- ⚡ I'd love to network, so please get in touch!
+- 📧 You can reach me at sachie@gmail.com
 
 
 
