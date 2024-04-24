@@ -1,6 +1,7 @@
-### Hi there 👋 Welcome to my Github page!
+### Hi there 👋
+## Welcome to my Github page!
 
-Some more about me...
+# Some more about me...
 ✨ I'm a recent fullstack bootcamp graduate!
 🔭 I’m currently working on a travel website for a travel agency that I designed myself
 🌱 I’m currently working with Svelte for the first time
